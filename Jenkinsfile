@@ -16,7 +16,7 @@ pipeline {
             steps {
                 echo 'Testing the application...'
                 sh '''
-                    ./PES2UG22CS034-1
+                    ./PES2UG22CS037-1
                     echo "Testing completed successfully"
                 '''
             }
